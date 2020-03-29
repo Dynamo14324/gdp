@@ -1,3 +1,3 @@
 # GDP
-GDP prediction model
+GDP calculation model
 with great visualisation effects
